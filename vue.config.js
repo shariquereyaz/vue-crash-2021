@@ -2,10 +2,9 @@
 
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-      ? '/vue-crash-2021/'
+      ? '/vue-crash-2021/index.html'
       : '/'
   }
 
 
 
-  
